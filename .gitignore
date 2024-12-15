@@ -38,7 +38,7 @@ next-env.d.ts
 
 # Cloudflare related
 /.save.next
-/.worker-next
+/.open-next
 /.wrangler
 
 # wrangler files
